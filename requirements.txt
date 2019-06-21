@@ -1,4 +1,5 @@
 locustio
+pyquery
 locust
 numpy
 pandas
