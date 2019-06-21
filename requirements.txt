@@ -1,0 +1,10 @@
+locustio
+locust
+numpy
+pandas
+matplotlib
+tzlocal
+sklearn
+scipy
+graphviz
+pydotplus
